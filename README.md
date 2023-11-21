@@ -19,25 +19,16 @@ This project features an open-world exploration game where players can freely ro
 
 ## Requirements
 
-- Operating System: Windows
+- Operating System: Windows 10
 - Memory: At least 8 GB RAM
 - Graphics Card: DirectX 11 compatible
 
 ## Installation
 
-1. Clone the repository to your computer: `git clone https://github.com/username/open-world-game.git`
-2. Navigate to the project directory: `cd open-world-game`
-3. Download the game from [this link](https://example.com/game.zip).
-4. Extract the downloaded file.
-5. Run the game executable (`game.exe`).
+1. Download the game from [this link](https://example.com/game.zip).
+2. Extract the downloaded file.
+3. Run the game executable (`game.exe`).
 
-## Contribution
-
-1. Fork the repository (https://github.com/username/open-world-game/fork)
-2. Create a new feature branch: `git checkout -b feature/new-feature`
-3. Make your changes: `git commit -am 'New feature: Description'`
-4. Push your branch to the main repository: `git push origin feature/new-feature`
-5. Create a pull request
 
 ## License
 
